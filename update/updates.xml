@@ -1,6 +1,6 @@
  <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='jokagdbfgimfhkijmiahajjpomgfcfbk'>
-    <updatecheck codebase='https://adkill-and-media-download.googlecode.com/files/Adkill%20and%20Media%20download%200.25.crx' version='0.26' />
+    <updatecheck codebase='https://adkill-and-media-download.googlecode.com/files/Adkill%20and%20Media%20download%200.26.crx' version='0.26' />
   </app>
 </gupdate>
